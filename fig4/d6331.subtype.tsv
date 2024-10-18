@@ -18,9 +18,6 @@ Clostridioides difficile	nimB	1.0	1.375	0.985
 Clostridioides difficile	sugE	1.0	1.375	0.727
 Clostridioides difficile	vanG	1.0	1.375	1.455
 Clostridioides difficile	vanT	1.0	1.375	1.834
-Clostridium perfringens	bacA	1.0	0.0	0.0
-Clostridium perfringens	cplR	1.0	0.0	0.0
-Clostridium perfringens	mprF	1.0	0.0	0.0
 Enterococcus faecalis	bacA	1.0	0.0	0.0
 Enterococcus faecalis	dltA	1.0	0.0	0.0
 Enterococcus faecalis	dltB	1.0	0.0	0.0
@@ -141,6 +138,9 @@ Salmonella enterica	sugE	1.0	0.0	0.0
 Salmonella enterica	tolC	1.0	0.0	0.0
 Salmonella enterica	ugd	1.0	0.0	0.0
 Salmonella enterica	yojI	1.0	0.0	0.0
+Sarcina perfringens	bacA	1.0	0.0	0.0
+Sarcina perfringens	cplR	1.0	0.0	0.0
+Sarcina perfringens	mprF	1.0	0.0	0.0
 Bacteroides fragilis	lnu(A)	0.0	40.125	0.636
 Escherichia coli	mdtN	0.0	47.375	1.061
 Escherichia coli	smdB	0.0	47.375	0.156

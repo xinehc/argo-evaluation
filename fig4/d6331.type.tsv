@@ -13,9 +13,6 @@ Clostridioides difficile	glycopeptide	2.0	1.375	3.289
 Clostridioides difficile	macrolide-lincosamide-streptogramin	2.0	1.375	4.823
 Clostridioides difficile	multidrug	2.0	1.375	2.119
 Clostridioides difficile	nitroimidazole	1.0	1.375	0.985
-Clostridium perfringens	bacitracin	1.0	0.0	0.0
-Clostridium perfringens	defensin	1.0	0.0	0.0
-Clostridium perfringens	macrolide-lincosamide-streptogramin	1.0	0.0	0.0
 Enterococcus faecalis	bacitracin	1.0	0.0	0.0
 Enterococcus faecalis	defensin	6.0	0.0	0.0
 Enterococcus faecalis	macrolide-lincosamide-streptogramin	1.0	0.0	0.0
@@ -45,3 +42,6 @@ Salmonella enterica	colistin	10.0	0.0	0.0
 Salmonella enterica	fosmidomycin	1.0	0.0	0.0
 Salmonella enterica	macrolide-lincosamide-streptogramin	2.0	0.0	0.0
 Salmonella enterica	multidrug	25.0	0.0	0.0
+Sarcina perfringens	bacitracin	1.0	0.0	0.0
+Sarcina perfringens	defensin	1.0	0.0	0.0
+Sarcina perfringens	macrolide-lincosamide-streptogramin	1.0	0.0	0.0
